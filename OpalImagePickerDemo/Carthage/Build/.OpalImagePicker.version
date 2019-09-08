@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "2.1.2",
+  "iOS" : [
+    {
+      "name" : "OpalImagePicker",
+      "hash" : "e4eea4ca4a30b07cdd200763e5f0c5267ec375760671d7f7f7adaa04066920f6",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}
