@@ -8,11 +8,11 @@
   "tvOS" : [
 
   ],
-  "commitish" : "6147e9217266119b8e512cb8d9ed5b85072f59dc",
+  "commitish" : "2.1.3",
   "iOS" : [
     {
       "name" : "OpalImagePicker",
-      "hash" : "d2e6fbb2d314fe7af0061998cfc970268beb907d54bf3549781142f3685990a5",
+      "hash" : "37239220efadf6c910b9a1a1b3079b434b38757931418655f426c27220b8b8e6",
       "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
     }
   ]
